@@ -1,0 +1,14 @@
+{
+  "Inventory": {
+    "subcategories": ["Chemicals", "Fasteners", "Dispensers", "Resistors", "Inductors", "Capacitors", "Connectors"]
+  },
+  "Locations": {
+    "subcategories": ["All", "Beakers", "Flasks"]
+  },
+  "Equipment": {
+    "subcategories": ["LPKF S104 - Milling Machine", "SMD Oven", "Pick and Place", "Microscopes", "Soldering Stations"]
+  },
+  "Reservation and Usage": {
+    "subcategories": ["LPKF S1014 - Reservation", "LPKF S104 - Drill Bits", "Pick and Place Machine"]
+  }
+}
